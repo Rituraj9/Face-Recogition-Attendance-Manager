@@ -1,5 +1,5 @@
 # Face-Recogition-Attendance-Manager
-# Created By Rituraj,Ravi,Abhinav,Vaibhav
+## Created By Rituraj,Ravi,Abhinav,Vaibhav
 ## Dashboard.py
 Main File Which is to be Run
 ## click__pictures.py
