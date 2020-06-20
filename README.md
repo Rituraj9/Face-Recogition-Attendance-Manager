@@ -1,2 +1,4 @@
 # Face-Recogition-Attendance-Manager
-## hi
+## Dashboard.py
+Main File Which is to be Run
+
